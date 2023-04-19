@@ -17,5 +17,9 @@
         "react"
     ],
     "rules": {
+        "indent": ["error", 2], // 인덴트 설정
+        "quotes": ["error", "single"], // 쿼터 dubble || single
+        "semi": ["error", "always"], // semi always(default)
+        "comma-style": ["error", "last"] // comma-style first || last
     }
 }
